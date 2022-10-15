@@ -7,3 +7,5 @@
 2-print_alphabet.c is a C program that prints the alphabet in lowercase, followed by a new line
 
 3-print_alphabets.c is a C program that prints the alphabet in lowercase, and then in uppercase, followed by a new line
+
+4-print_alphabt.c is a C program that prints the alphabet in lowercase with the exeption of e and q
