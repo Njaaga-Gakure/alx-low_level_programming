@@ -17,3 +17,5 @@
 7-print_tebahpla.c is a C program that prints prints the lowercase alphabet in reverse
 
 8-print_base16.c is a C program that prints hexadeximal numbers
+
+9-print_comb.c is a C program prints all possible combinations of single-digit numbers
