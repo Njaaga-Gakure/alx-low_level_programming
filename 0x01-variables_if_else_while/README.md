@@ -11,3 +11,5 @@
 4-print_alphabt.c is a C program that prints the alphabet in lowercase with the exeption of e and q
 
 5-print_numbers.c is a C program that prints all single digit numbers of base 10 starting from 0, followed by a new line
+
+6-print_numberz.c is a C program that prints all single digit numbers of base 10 starting from 0 using putchar() function
