@@ -23,3 +23,5 @@
 100-print_comb3.c is a C program that prints all possible different combinations of two digits 
 
 101-print_comb4.c is a C program that prints all possible different combinations of three digits
+
+102-print_comb5.c is a C program that prints all possible combinations of two two-digit numbers
