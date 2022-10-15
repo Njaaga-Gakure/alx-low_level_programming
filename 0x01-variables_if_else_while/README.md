@@ -20,4 +20,6 @@
 
 9-print_comb.c is a C program that prints all possible combinations of single-digit numbers
 
-100-print_comb3.c is a C program that prints that prints all possible different combinations of two digits 
+100-print_comb3.c is a C program that prints all possible different combinations of two digits 
+
+101-print_comb4.c is a C program that prints all possible different combinations of three digits
