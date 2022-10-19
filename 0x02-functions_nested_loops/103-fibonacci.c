@@ -6,21 +6,23 @@
  */
 int main(void)
 {
-	unsigned long x = 1;
-	unsigned long y = 2;
+	unsigned long x = 0, y = 1, z;
 	int i;
-	unsigned long z = 1 + 2;
+	unsigned long sum = 0;
 
-	for (i = 0; i <= 50; i++)
+	for (i = 0; i <= 100; i++)
 	{
-		x = y;
-		y = z;
 		z = x + y;
-		if (x % 2 == 0 && x < 4000000 && y % 2 == 0 && y < 4000000)
+		if (z < 4000000)
 		{
-			print("%lu", z);
+			if (z % 2 == 0)
+			{
+				sum = sum + z;
+			}
+			x = y;
+			y = z;
 		}
 	}
-	printf("\n");
+	printf("%lu\n", sum);
 	return (0);
 }
