@@ -12,10 +12,10 @@ int main(void)
 	unsigned long z = x + y;
 
 	printf("%lu, %lu, ", x, y);
-	for (i = 3; i <= 98; i++)
+	for (i = 3; i < 93; i++)
 	{
 		printf("%lu", z);
-		if (i < 98)
+		if (i < 93)
 		{
 			printf(", ");
 		}

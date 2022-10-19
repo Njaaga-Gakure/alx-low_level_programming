@@ -29,3 +29,5 @@
 101-natural.c prints the sum of all the multiples of 3 or 5 below 1024
 
 103-fibonacci.c prints the sum of the even-valued terms in the Fibonacci sequence whose values do not exceed 4,000,000
+
+104-fibonacci.c prints the first 98 Fibonacci numbers, starting with 1 and 2
