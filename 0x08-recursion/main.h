@@ -12,6 +12,7 @@ int root(int, int);
 int is_prime_number(int n);
 int check_prime(int, int);
 int is_palindrome(char *s);
+int check_for_pal(char*, int, int);
 int wildcmp(char *s1, char *s2);
 
 #endif
